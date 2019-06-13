@@ -1,3 +1,5 @@
+### 基于MTCNN和Facenet实现的视频流人脸检测
+
 video.py: 从视频中提取图片
 
 main.py: 可视化图片中的人脸检测结果
@@ -9,3 +11,5 @@ ruihua.py: 锐化图片
 sideface.py: 处理侧脸以及置信度低的人脸
 
 facenet.compare.py: 进行人脸对比并保存结果集
+
+6.13更新
