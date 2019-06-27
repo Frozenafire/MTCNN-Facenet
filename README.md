@@ -13,4 +13,4 @@ sideface.py: 处理侧脸以及置信度低的人脸
 
 facenet.compare.py: 进行人脸对比并保存结果集
 
-6.13更新
+![流程图](https://github.com/Frozenafire/MTCNN-Facenet/blob/master/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
